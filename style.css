@@ -214,3 +214,21 @@ button {
   margin-top: 506px;
   margin-left: 14px;
 }
+.form-name {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+#datacollect {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #4f4f4f;
+  background: #FFF;
+  margin-top: 19px;
+  margin-left: 189px;
+  margin-bottom: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}
