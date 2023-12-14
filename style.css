@@ -232,3 +232,31 @@ button {
   display: inline-block;
   vertical-align: middle;
 }
+.email-name {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+#emailname {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.password-name {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+#password {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
