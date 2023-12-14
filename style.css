@@ -47,6 +47,20 @@ body{
 /* This is Settings styles */
 
 
+.nav-bar {
+  background-color: #2F80ED;
+  margin-top: 157px;
+}
+.nav-bar2 {
+  background-color: #2F80ED;
+  margin-top: 50px;
+}
+.nav-bar3 {
+  background-color: #2F80ED;
+  margin-top: 506px;
+}
+
+
 .icon-name-box {
   align-items: center;
 }
