@@ -44,3 +44,99 @@ body{
 }
 
 
+/* This is Settings styles */
+
+
+.icon-name-box {
+  align-items: center;
+}
+.icon-box {
+  width: 24px;
+  height: 24px;
+  margin-left: 67px;
+  display: inline-block;
+}
+.navigation-box {
+  align-items: center;
+  display: inline-block;
+}
+.navigation-name {
+  width: 156px;
+  height: 16px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.logout-box {
+  align-items: center;
+  display: inline-block;
+}
+.logout-name {
+  width: 156px;
+  height: 16px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.settings-header {
+  width: 102px;
+  height: 36px;
+  color: #515151;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 65px;
+  margin-left: 73px;
+  margin-bottom: 93px;
+}
+.form-box {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 55px;
+}
+.checkbox {
+  width: 400px;
+  height: 75px;
+  border: 1px solid #828282;
+  background: #FFF;
+  margin-bottom: 31px;
+}
+.email {
+  width: 400px;
+  height: 75px;
+  border: 1px solid #828282;
+  background: #FFF;
+  margin-bottom: 31px;
+}
+.password {
+  width: 400px;
+  height: 75px;
+  border: 1px solid #828282;
+  background: #FFF;
+  margin-bottom: 42px;
+}
+button {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  background-color: #333;
+  color: #FFF;
+  width: 150px;
+  height: 75px;
+  margin-left: 55px;
+}
+label {
+  margin-left: 29px;
+}
