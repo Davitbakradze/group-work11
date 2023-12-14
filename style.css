@@ -60,7 +60,6 @@ body{
   margin-top: 506px;
 }
 
-
 .icon-name-box {
   align-items: center;
 }
@@ -151,6 +150,67 @@ button {
   height: 75px;
   margin-left: 55px;
 }
-label {
-  margin-left: 29px;
+.dashboard-box{
+  display: flex;
+  align-items: center;
+}
+.dashboard-logo{
+  width: 24px;
+  height: 24px;
+  margin-top: 155px;
+  margin-left: 67px;
+}
+.dashboard-name{
+  margin-left: 10px;
+  margin-top: 157px; 
+}
+.dashboard{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.settings-box{
+  display: flex;
+  align-items: center;
+}
+.settings-logo{
+  width: 24px;
+  height: 24px;
+  margin-top: 44px;
+  margin-left: 67px;
+}
+.settings-name{
+  margin-left: 9px;
+  margin-top: 50px;
+}
+.settings{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.log-out-box{
+  display: flex;
+  align-items: center;
+}
+.log-out-logo{
+  margin-top: 496px;
+  margin-left: 63px;
+  width: 24px;
+  height: 24px;
+}
+.log-out{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 506px;
+  margin-left: 14px;
 }
