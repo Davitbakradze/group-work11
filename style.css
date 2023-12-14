@@ -134,11 +134,6 @@ body{
   height: 36px;
   margin-left: 73px;
   margin-top: 65px;
-  color: #515151;
-  font-family: Poppins;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: 700;
 }
 .h4_views{
   color: #333;
@@ -236,11 +231,6 @@ body{
   margin-left: 73px;
   margin-top: 31px;
   color: #333;
-  font-family: Poppins;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
 }
 .rectangle_1{
   display: flex;
@@ -332,11 +322,6 @@ body{
   margin-right: 29px;
   margin-top: 19px;
   color: #4F4F4F;
-  font-family: Poppins;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
 }
 .rectangle_4{
   display: flex;
@@ -374,11 +359,6 @@ body{
   margin-left: 73px;
   margin-top: 31px;
   color: #333;
-  font-family: Poppins;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
 }
 .border_1{
   display: flex;
@@ -396,11 +376,6 @@ body{
   margin-left: 39px;
   margin-top: 19px;
   color: #4F4F4F;
-  font-family: Poppins;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
 }
 .border_1_2{
   margin-right: 17px;
@@ -443,4 +418,225 @@ body{
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  
+  
+  /* This is Settings styles */
+
+
+.nav-bar {
+  background-color: #2F80ED;
+  margin-top: 157px;
 }
+.nav-bar2 {
+  background-color: #2F80ED;
+  margin-top: 50px;
+}
+.nav-bar3 {
+  background-color: #2F80ED;
+  margin-top: 506px;
+}
+
+.icon-name-box {
+  align-items: center;
+}
+.icon-box {
+  width: 24px;
+  height: 24px;
+  margin-left: 67px;
+  display: inline-block;
+}
+.navigation-box {
+  align-items: center;
+  display: inline-block;
+}
+.navigation-name {
+  width: 156px;
+  height: 16px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.logout-box {
+  align-items: center;
+  display: inline-block;
+}
+.logout-name {
+  width: 156px;
+  height: 16px;
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.settings-header {
+  width: 102px;
+  height: 36px;
+  color: #515151;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 65px;
+  margin-left: 73px;
+  margin-bottom: 93px;
+}
+.form-box {
+  color: #000;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-left: 55px;
+}
+  .checkbox {
+  width: 400px;
+  height: 75px;
+  border: 1px solid #828282;
+  background: #FFF;
+  margin-bottom: 31px;
+}
+.email {
+  width: 400px;
+  height: 75px;
+  border: 1px solid #828282;
+  background: #FFF;
+  margin-bottom: 31px;
+}
+.password {
+  width: 400px;
+  height: 75px;
+  border: 1px solid #828282;
+  background: #FFF;
+  margin-bottom: 42px;
+}
+button {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  background-color: #333;
+  color: #FFF;
+  width: 150px;
+  height: 75px;
+  margin-left: 55px;
+}
+.dashboard-box{
+  display: flex;
+  align-items: center;
+}
+.dashboard-logo{
+  width: 24px;
+  height: 24px;
+  margin-top: 155px;
+  margin-left: 67px;
+}
+.dashboard-name{
+  margin-left: 10px;
+  margin-top: 157px; 
+}
+.dashboard{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+  .settings-box{
+  display: flex;
+  align-items: center;
+}
+.settings-logo{
+  width: 24px;
+  height: 24px;
+  margin-top: 44px;
+  margin-left: 67px;
+}
+.settings-name{
+  margin-left: 9px;
+  margin-top: 50px;
+}
+.settings{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.log-out-box{
+  display: flex;
+  align-items: center;
+}
+.log-out-logo{
+  margin-top: 496px;
+  margin-left: 63px;
+  width: 24px;
+  height: 24px;
+}
+.log-out{
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 506px;
+  margin-left: 14px;
+}
+.form-name {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+#datacollect {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #4f4f4f;
+  background: #FFF;
+  margin-top: 19px;
+  margin-left: 189px;
+  margin-bottom: 16px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.email-name {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+#emailname {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.password-name {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+#password {
+  margin-top: 24px;
+  margin-left: 29px;
+  margin-bottom: 24px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+  
+  
+  
+  
